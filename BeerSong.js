@@ -1,0 +1,2 @@
+This source code does a for loop from counting down from 99 to 1. Every time it's counting down, it decreases the number then displays it in text "(count) bottles of beer on the wall."  99 bottles	of	beer	on	the	wall,	99	bottles	of	beer
+take	one	down,	pass	it	around,	98	bottles	of	beer	on	the	wall, and it repeats it all the way down to no more bottles of beer on the wall.
